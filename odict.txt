@@ -1,0 +1,5 @@
+apple 
+bear 
+cat
+bee
+bet
